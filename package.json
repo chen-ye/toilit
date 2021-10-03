@@ -1,0 +1,15 @@
+{
+  "name": "toilit",
+  "version": "0.0.1",
+  "description": "totally opinionated idiomatic lit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chen-ye/toilit.git"
+  },
+  "author": "chen.ye@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chen-ye/toilit/issues"
+  },
+  "homepage": "https://github.com/chen-ye/toilit#readme"
+}
